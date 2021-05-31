@@ -1,0 +1,15 @@
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Analizator_Algorytmow_Bak_Teska.exe.config
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Analizator_Algorytmow_Bak_Teska.exe
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Analizator_Algorytmow_Bak_Teska.pdb
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\obj\Debug\Analizator_Algorytmow_Bak_Teska.csprojAssemblyReference.cache
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\obj\Debug\Analizator_Algorytmow_Bak_Teska.Analizator_algorytmow.resources
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\obj\Debug\Analizator_Algorytmow_Bak_Teska.Properties.Resources.resources
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\obj\Debug\Analizator_Algorytmow_Bak_Teska.csproj.GenerateResource.cache
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\obj\Debug\Analizator_Algorytmow_Bak_Teska.csproj.CoreCompileInputs.cache
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\obj\Debug\Analizator_Algorytmow_Bak_Teska.exe
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\obj\Debug\Analizator_Algorytmow_Bak_Teska.pdb
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Gifs\Bubble.gif
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Gifs\Gnome.gif
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Gifs\Insertion.gif
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Gifs\Library.gif
+C:\Users\kasiu\OneDrive\Desktop\C# zaawansowany\Analizator_Algorytmow_Bak_Teska\bin\Debug\Gifs\Quick.gif
